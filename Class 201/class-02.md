@@ -78,6 +78,13 @@ Page 76 has a table of Arithmetic Opertators.
 
 ## Ducket JS Book, Decisions and Loops, pp145-162 - Only up to section on switch statements
 
+There are two components to a decision: 
+<p>An expression is evaluated, which returns a value.</p>
+<p>A conditional statement says what to do in a given situation. </p>
+
+Page 150 has a list of comparison operators. 
+Page 156 has Logical operator list
+
 
 ## Things I want to know more about
 
