@@ -1,5 +1,9 @@
 # Reading 03 - HTMl Lists, CSS Boxes, JS Control Flow
 
+### Why This Matters
+
+These are basic concepts for writing code, a firm grasp of these basics are required to move on to more advanced tools.
+
 ## Duckett HTML Book:
 
 ### Chapter 3: Lists - pp.62-73
