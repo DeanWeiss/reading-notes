@@ -1,21 +1,3 @@
-April 6th Notes
-
-## Arrays
-
--Data Type // Data Structure – Special type of object
-- A collection of data or a list of data/elements or a list of data/elements
-	- Can be mixed . . . strings, numbers, booleans, arrays
-- In JS we don’t have to predetermine the size of our array.
--Every element in the array has an index (location reference) for where we can find the element.
-	-JS arrays are a zero based index
-
--Built in methods
-	-`.pop()` - remove the last element from the array
-	-`.push()` - add any number of elements to the end of the array
-
--Property
-	- `.length` - this will tell me how long the array is
-
 ## Loops
 
 # Reading 04
