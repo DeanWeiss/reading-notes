@@ -44,7 +44,11 @@ The DocumenObject Model (DOM) specifies how browsers should create a model of an
 
 It is not part of JavaScript or HTML. It is a separate set of rules; making a model of the HTML page and accessing changing the HTML page.
 
-The DOM is an API, Application Programming Interface. 
+The DOM is an API, Application Programming Interface.
+
+## Things I want to know more about.
+
+
 
 
 https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b
