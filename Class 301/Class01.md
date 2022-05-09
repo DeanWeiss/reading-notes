@@ -51,5 +51,8 @@ Define the atrribute and it's value, pass it to child component by using props, 
 #### What is the flow of props?
 It flows one way, from parent to the child.
 
+## Things I want to know more about
+At this point I would just like to dive in and use it, I don't really understand how it functions just be reading. I need hands on.
+
 
 ##### Credit: https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm
