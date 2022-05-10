@@ -1,5 +1,7 @@
 # Class 02
 
+This is important because we need to know the steps in React, when things happen so that we can effect them later on if needed. It is also necessary to know when to use React vs Props.
+
 ## React lifecycle
 
 Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
