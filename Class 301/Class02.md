@@ -27,3 +27,8 @@ When do we re-render our application?
 
 What are some examples of things that we could store in state?
     A counter, A form,  something that needs to be rerendered or updated based on what the user has done. 
+
+
+## Things I want to know more about
+
+I have no questions. Just want to use it and see an example.
