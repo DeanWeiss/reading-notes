@@ -25,8 +25,8 @@ Rewrite the following statement using a ternary statement:
 
 Rewritten:
 
-
+x === y ? 'true' : 'false';
 
 ## Things I want to Know More About
 
-I do not understand conditionals.
+I guessed at the 3rd question in React Docs. Couldn't find the answer in the reading.
