@@ -40,5 +40,5 @@
 
 #### Resources
 
-https://reactjs.org/docs/thinking-in-react.html
-https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK
+1. https://reactjs.org/docs/thinking-in-react.html
+2. https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK
