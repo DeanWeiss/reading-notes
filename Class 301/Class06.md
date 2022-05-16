@@ -1,7 +1,6 @@
 # NODE.JS
 
 ## An Introduction to Node.js on sitepoint.com
-
 What is node.js? 
     Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses Google’s V8 JavaScript engine and libuv library.
 In your own words, what is Chrome’s V8 JavaScript Engine?
@@ -21,7 +20,6 @@ What is node used for?
     Let's us run JavaScript on the Server.
 
 ## 6 Reasons for Pair Programming
-
 What are the 6 reasons for pair programming?
     1. Greater Efficiency 2. Engaged Collaboration 3. Learning from fellow students 4. Social Skills 5. Job Interview Readiness 6. Work Environment readiness
 In your experience, which of these reasons have you found most beneficial?
